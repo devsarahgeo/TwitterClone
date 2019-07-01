@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:layout_height="match_parent"
+    tools:context=".Profile">
+
+    <ImageView
+        android:background="@drawable/bluecolor"
+        android:id="@+id/imgProfile"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/ic_attach"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+
+    <TextView
+        android:id="@+id/txtName"
+        android:layout_marginTop="30dp"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:text="SARAH"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <RelativeLayout
+        android:visibility="gone"
+        android:id="@+id/btnfollow"
+        android:paddingRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/round_blue_border"
+            android:text="@string/follow"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#0894f8"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            tools:ignore="RtlSymmetry"
+            android:layout_alignParentEnd="true" />
+
+    </RelativeLayout>
+    <ListView
+        android:id="@+id/lvTweets"
+        android:descendantFocusability="afterDescendants"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_marginTop="50dp"
+    android:paddingTop="20dp"
+    android:background="@android:color/white"
+    android:paddingBottom="20dp"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    
+    <ImageView
+        android:id="@+id/ivSearchProfile"
+        android:src="@drawable/round_blue_border"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:contentDescription="image" />
+    <TextView
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/tvSearchName"
+        android:layout_width="wrap_content"
+        android:text="Username"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp" />
+
+
+</LinearLayout>

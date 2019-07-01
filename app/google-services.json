@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "889562257909",
+    "firebase_url": "https://twitterdupewebservice.firebaseio.com",
+    "project_id": "twitterdupewebservice",
+    "storage_bucket": "twitterdupewebservice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889562257909:android:a36223dd35d5be94",
+        "android_client_info": {
+          "package_name": "com.sarah.twitterdupewebservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889562257909-ki73vh126off0bb8nrmfth4ri6o2tun5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sarah.twitterdupewebservice",
+            "certificate_hash": "cc1dc6c27450cb9d985e6095eb4c001f97a7ce1b"
+          }
+        },
+        {
+          "client_id": "889562257909-opos74upt8k1j5jebsvp21almv3tp1l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcR8ZgU9eEYkbP8h2FZK2Hm3pZJjFxF2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889562257909-opos74upt8k1j5jebsvp21almv3tp1l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
