@@ -14,6 +14,8 @@ Stored in table:<br/><br/>
 <img width="200" src="https://github.com/devsarahgeo/TwitterClone/blob/master/images/cmd.png"/><br/><br/>
 <img width="200" src="https://github.com/devsarahgeo/TwitterClone/blob/master/images/Screenshot_2019-07-11_140435.jpg"/><br/>
 
+Navigation drawer thats shows username and on clicking profile goes to user profile.<br/>
+<img width="200" src="https://github.com/devsarahgeo/TwitterClone/blob/master/images/Screenshot_2019-07-11_142839.jpg"/><br/>
 
 Features implemented:<br/>
 1)Posting tweets<br/>
