@@ -4,7 +4,9 @@ A twitter clone with features like user profile with tweets on users page and ho
 App begins by user logging in which is stored using MYSQL and PHP web service.<br/>
 
 <img width="200" src="https://github.com/devsarahgeo/TwitterClone/blob/master/images/Screenshot_2019-07-11_140240.jpg"/><br/>
-<img width="200" src="https://github.com/devsarahgeo/TwitterClone/blob/master/images/cmd.png"/><br/>
+<br/>
+Stored in table:<br/><br/>
+<img width="200" src="https://github.com/devsarahgeo/TwitterClone/blob/master/images/cmd.png"/><br/><br/>
 <img width="200" src="https://github.com/devsarahgeo/TwitterClone/blob/master/images/Screenshot_2019-07-11_140435.jpg"/><br/>
 
 
